@@ -89,9 +89,7 @@ footer {
 
 .card-bookmark-symbol {
   max-height: 30px;
-  position: absolute;
-  right: 0px;
-  top: -7px;
+
 }
 
 .card-show-answer-button {
