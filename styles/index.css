@@ -89,6 +89,7 @@ footer {
 
 .card-bookmark-symbol {
   max-height: 30px;
+  position: absolute;
 
 }
 
